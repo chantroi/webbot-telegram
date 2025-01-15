@@ -1,5 +1,4 @@
 <script lang="ts">
-  import type { AsyncKeyValueFileSystem } from "browserfs/dist/node/generic/key_value_filesystem";
   import { Bot } from "grammy";
 
   interface Message {
