@@ -25,6 +25,7 @@
     "browserfs": "^1.4.3",
     "fs": "^0.0.1-security",
     "grammy": "^1.34.0",
+    "lucide-svelte": "^0.473.0",
     "require": "^2.4.20"
   }
 }
